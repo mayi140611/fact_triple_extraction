@@ -1,0 +1,2 @@
+# fact_triple_extraction
+使用句法依存分析抽取事实三元组
